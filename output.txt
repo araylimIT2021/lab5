@@ -1,0 +1,4 @@
+861234567 total call duration 287 and count of calls 1 
+869876543 total call duration 312 and count of calls 2 
+866612345 total call duration 187 and count of calls 2 
+869911111 total call duration 162 and count of calls 1 
